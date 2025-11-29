@@ -196,7 +196,13 @@ MEMORY_DB=data/memory_db.json
 ```
 
 ---
+#
 
+![SoulSync AI Banner](https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcTUa9olUp8eDEA0lXe1aSrjcAEiph3kI3Osp4kshOjBeUUa4fYNyNNzZHTNMA6OEWmPM0gIXvflIF7P4TaG34F7yWHayUv3m9EDMjHAi4wob7mxGso)
+
+![Status](https://img.shields.io/badge/Status-Prototype-blue) ![Stack](https://img.shields.io/badge/Tech-FastAPI%20%7C%20React%20%7C%20Multi--Agent-green)
+
+**SoulSync AI** is an intelligent, multi-agent personal companion designed to support users emotionally, academically, mentally, and practically. It acts as a friend, mentor, guardian, tutor, planner, and wellness coach—all unified into a single interface.
 # 🌍 Deployment
 
 ### **Google Cloud Run**
